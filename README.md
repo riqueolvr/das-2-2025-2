@@ -11,11 +11,18 @@
   - 4.Performance Efficiency
   - 5.Cost Optimization
   - 6.Sustainability
-  - 
+    
 - Cloudformatation
   
 - ELB ( Elastic load Balancing) distribui 'tarefas" para instancias caso haja algum erro em uma delas 
 
-- 
+ 
    
 ## 06/08
+
+- nuvem cria estruturas que tornam os data centers transparentes
+- Selectin Regions
+-  AZ ( avaliability Zone) composta por 1 ou mais data centers
+   Alta disponibilidade
+
+
