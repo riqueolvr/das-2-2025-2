@@ -26,3 +26,9 @@
    Alta disponibilidade
 
 
+## 13/08
+
+- Identity based police - associo ela ao usuário dentro do IAM
+- Resource e based policy diferença:
+- API AWS reune todas as policys
+  
