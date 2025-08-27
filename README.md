@@ -32,3 +32,19 @@
 - Resource e based policy diferença:
 - API AWS reune todas as policys
   
+## 20/08
+
+dados perdidos
+
+## 27/08
+
+4 fatores
+
+-legislação
+-proximidade
+-avaliabilidade
+-custo
+
+Amazon S3 Inventory
+
+-gerar arquivo de texto para gerenciar/ encontrar arquivos.
