@@ -48,3 +48,9 @@ dados perdidos
 Amazon S3 Inventory
 
 -gerar arquivo de texto para gerenciar/ encontrar arquivos.
+
+
+## 03/09
+
+- EC2 possui o backend, sites dinamicos, já o S3 sites estáticos
+- EC2 processar lógica 
